@@ -1,0 +1,13 @@
+com\empresa\pedidos\dominio\eventos\PedidoProcesadoEvent.class
+com\empresa\pedidos\adaptadores\procesadores\ProcesadorPedidoInternacional.class
+com\empresa\pedidos\dominio\puertos\ProcesadorPedido.class
+com\empresa\pedidos\dominio\puertos\RepositorioPedidos.class
+com\empresa\pedidos\dominio\Pedido.class
+com\empresa\pedidos\dominio\TipoPedido.class
+com\empresa\pedidos\adaptadores\procesadores\ProcesadorPedidoFactory.class
+com\empresa\pedidos\dominio\PedidoId.class
+com\empresa\pedidos\adaptadores\procesadores\ProcesadorPedidoExpress.class
+com\empresa\pedidos\dominio\puertos\ServicioNotificacion.class
+com\empresa\pedidos\PedidosApplication.class
+com\empresa\pedidos\adaptadores\procesadores\ProcesadorPedidoEstandar.class
+com\empresa\pedidos\dominio\EstadoPedido.class

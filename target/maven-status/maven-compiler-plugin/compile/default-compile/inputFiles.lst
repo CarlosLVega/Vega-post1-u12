@@ -1,0 +1,13 @@
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\adaptadores\procesadores\ProcesadorPedidoEstandar.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\adaptadores\procesadores\ProcesadorPedidoExpress.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\adaptadores\procesadores\ProcesadorPedidoFactory.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\adaptadores\procesadores\ProcesadorPedidoInternacional.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\dominio\EstadoPedido.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\dominio\eventos\PedidoProcesadoEvent.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\dominio\Pedido.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\dominio\PedidoId.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\dominio\puertos\ProcesadorPedido.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\dominio\puertos\RepositorioPedidos.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\dominio\puertos\ServicioNotificacion.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\dominio\TipoPedido.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\PedidosApplication.java
