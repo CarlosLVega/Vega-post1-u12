@@ -1,7 +1,10 @@
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\adaptadores\facade\FachadaPedidos.java
 C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\adaptadores\procesadores\ProcesadorPedidoEstandar.java
 C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\adaptadores\procesadores\ProcesadorPedidoExpress.java
 C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\adaptadores\procesadores\ProcesadorPedidoFactory.java
 C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\adaptadores\procesadores\ProcesadorPedidoInternacional.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\adaptadores\rest\PedidoController.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\aplicacion\ServicioPedidos.java
 C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\dominio\EstadoPedido.java
 C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\dominio\eventos\PedidoProcesadoEvent.java
 C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\dominio\Pedido.java
@@ -10,4 +13,8 @@ C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empres
 C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\dominio\puertos\RepositorioPedidos.java
 C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\dominio\puertos\ServicioNotificacion.java
 C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\dominio\TipoPedido.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\infraestructura\notificaciones\NotificacionEmail.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\infraestructura\notificaciones\NotificacionLog.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\infraestructura\persistencia\PedidoJpaRepository.java
+C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\infraestructura\persistencia\RepositorioPedidosJpa.java
 C:\Users\carlo\OneDrive\Documents\GitHub\Vega-post1-u12\src\main\java\com\empresa\pedidos\PedidosApplication.java
